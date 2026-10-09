@@ -99,3 +99,36 @@ Business process analysis, workflow design, vendor lifecycle tracking, dashboard
 
 *Note: This is a high-level project summary. Company source code and confidential vendor information are not included.*
 
+## Project: D2C Social Media Video Workflow
+
+### Overview
+
+A structured workflow designed to manage the end-to-end social media video production process, including script preparation, approvals, shooting, editing, publishing, and feedback tracking.
+
+### Key Workflow Stages
+
+1. **Content Requirement:** Category Head submits the requirement form with the designer sheet.
+2. **Script Preparation:** The team selects video ideas and prepares initial scripts.
+3. **Script Review:** Scripts are reviewed and modifications are suggested.
+4. **Script Approval:** Scripts are sent for approval. If corrections are required, the revised script is resubmitted.
+5. **Video Shooting:** Shooting is completed within one day after approval.
+6. **Video Editing:** The editorial team edits videos and uploads them with appropriate links and names.
+7. **Quality Review:** Videos are reviewed for quality and accuracy.
+8. **Final Upload:** Final videos are uploaded to Drive with proper naming.
+9. **Video Sharing:** Final video links are emailed to the Category Head.
+10. **Feedback Collection:** Ratings and comments are collected.
+11. **Final Tracking:** Feedback is recorded in the final sheet.
+
+### Key Features
+
+* Multi-stage content production tracking
+* Script approval and correction loop
+* Defined task owners and turnaround times
+* Video review and quality checks
+* Centralized final links and feedback tracking
+
+### Skills Demonstrated
+
+Business process mapping, workflow design, approval management, turnaround-time planning, and process tracking.
+
+*Note: This description documents the workflow at a high level. Company-specific information and confidential materials are excluded.*
