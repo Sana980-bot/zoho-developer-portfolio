@@ -67,3 +67,35 @@ An internal ticket management solution designed to help users raise, track, and 
 I identified the business need, defined the requirements, and shaped the application workflow and user experience. I used AI coding assistants, including Claude and ChatGPT, to support implementation, debugging, and refinement.
 
 *Note: This is a high-level project description. Company source code and confidential data are not included.*
+
+## Project: Editorial Vendor CRR Automation
+
+### Overview
+
+Designed a structured vendor tracking and follow-up process to improve visibility of onboarded, vacant, and dormant editorial vendors.
+
+### Key Features
+
+* Centralized tracking of new and existing vendors
+* Vacant and dormant vendor dashboards
+* Planned weekly/monthly follow-ups
+* Work assignment and Work Order tracking
+* Vendor response and issue logging
+* Vendor status management, including inactive/dead vendor decisions
+* Management review for rate issues and no-response cases
+* Reporting to support vendor engagement and work allocation decisions
+
+### Business Objective
+
+To reduce manual vendor tracking, improve follow-up accountability, and ensure that vendor engagement and status decisions are recorded systematically.
+
+### My Contribution
+
+Prepared the process requirements and workflow documentation, identifying vendor lifecycle stages, follow-up rules, user actions, and management decision points.
+
+### Skills Demonstrated
+
+Business process analysis, workflow design, vendor lifecycle tracking, dashboard planning, and automation requirements.
+
+*Note: This is a high-level project summary. Company source code and confidential vendor information are not included.*
+
