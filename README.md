@@ -127,3 +127,42 @@ Independently developed the application in Zoho Creator based on business requir
 Zoho Creator, business process automation, workflow design, approval management, process tracking, and application development.
 
 *This is a high-level project summary. Company source code and confidential information are not included.*
+
+## Project: Procurement Management & Purchase Order Automation
+
+**Platform:** Zoho Creator
+**Integration:** Zoho Books API
+**Role:** Zoho Creator Developer
+
+### Overview
+
+Developed a procurement management application in Zoho Creator to manage the purchase process from request submission and approvals to Purchase Order (PO) creation in Zoho Books.
+
+### Key Features
+
+* Purchase request creation and tracking
+* Multi-stage approval workflow
+* Quotation management during the procurement process
+* Automated Purchase Order creation in Zoho Books directly from Zoho Creator
+* API-based data transfer between Zoho Creator and Zoho Books
+* Tracking of procurement requests and their processing status
+
+### My Contribution
+
+Designed and developed the application based on business requirements, implemented procurement workflows and approval processes, and integrated Zoho Creator with Zoho Books using APIs to automate PO creation.
+
+### Technologies Used
+
+* Zoho Creator
+* Deluge
+* Zoho Books API
+* REST APIs
+* JSON
+* Postman for API testing
+
+### Business Objective
+
+To streamline procurement operations, reduce manual data entry, standardize approvals, and automate Purchase Order creation in Zoho Books after the required procurement process is completed.
+
+*This portfolio description excludes company source code, credentials, and confidential business data.*
+
