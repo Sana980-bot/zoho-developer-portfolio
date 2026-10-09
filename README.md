@@ -41,3 +41,29 @@ I am continuously improving my development and integration skills and looking fo
 ---
 
 *Note: This portfolio describes my experience. Company-specific code and confidential data are not included.*
+## Project: Internal Ticketing System
+
+### Overview
+
+An internal ticket management solution designed to help users raise, track, and manage tickets through a centralized system.
+
+### Key Features
+
+* Ticket creation and status tracking
+* Custom HTML and JavaScript interface
+* Ticket data retrieval using Zoho REST APIs
+* Periodic refresh to check for updated ticket information
+* User-friendly ticket views and management
+
+### Technologies
+
+* Zoho Creator
+* HTML and CSS
+* JavaScript
+* Zoho REST APIs
+
+### My Role
+
+I identified the business need, defined the requirements, and shaped the application workflow and user experience. I used AI coding assistants, including Claude and ChatGPT, to support implementation, debugging, and refinement.
+
+*Note: This is a high-level project description. Company source code and confidential data are not included.*
