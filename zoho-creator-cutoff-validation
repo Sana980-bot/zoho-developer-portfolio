@@ -1,0 +1,12 @@
+cutoffTimeStr = input.Cutoff_Time.Cutoff_Time.toString();
+// alert "raw value = " + cutoffTimeStr;.
+todayStr = zoho.currentdate.toString("dd-MMM-yyyy");
+cutoffDateTime = (todayStr + " " + cutoffTimeStr).toDateTime("dd-MMM-yyyy HH:mm:ss");
+// alert "as string = " + input.Cutoff_Time.Cutoff_Time.toString("HH:mm:ss");
+// alert "Now: " + zoho.currenttime + " | Cutoff: " + cutoffDateTime;
+if(zoho.currenttime > cutoffDateTime)
+{
+	// 	alert "cutoffTimeStr = " + cutoffTimeStr;
+	alert "Submissions for " + input.Cutoff_Time.Name_of_Work + " are only accepted till " + cutoffTimeStr + " today.";
+	cancel submit;
+}
