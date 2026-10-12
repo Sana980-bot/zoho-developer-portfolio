@@ -12,11 +12,67 @@ Hi! I am a Zoho Developer with hands-on experience in building business applicat
 * HTML, CSS and JavaScript Basics
 * Workflow Automation and Troubleshooting
 
-## Project Experience
+## Project Experience# Freelancer Work Order & Billing Management System
 
-### 1. Procurement Automation
+## Project Overview
+Developed a Zoho Creator application to manage the end-to-end freelancer payment process, from vendor registration and KYC verification to work order creation, bill auditing, purchase order generation, and payment tracking.
 
-Designed workflows to manage purchase requests, approvals, quotations and purchase orders, including Zoho Books API integration.
+The application streamlines coordination between freelancers, Accounts, internal teams, and the Audit team using workflow automation, custom buttons, approval stages, and Zoho Books integration.
+
+## Business Workflow
+
+1. **Freelancer Registration**  
+   Freelancers submit their details through a registration form.
+
+2. **KYC Verification & Ledger Creation**  
+   The Accounts team verifies the freelancer's KYC documents and creates their vendor ledger in Zoho Books using a custom button.
+
+3. **Work Order Creation**  
+   Authorized users generate and send work orders to freelancers through a custom button.
+
+4. **Work Completion & Receipt Tracking**  
+   Once the assigned work is completed, the team records the receipt against the corresponding work order.
+
+5. **Bill Creation & Quantity Updates**  
+   Users initiate bill creation through a custom button, complete the bill form, and update quantities as required.
+
+6. **Approval & Audit Process**  
+   Bills pass through the defined approval stages before reaching the Audit team. Auditors review the bills and raise queries if discrepancies are found.
+
+7. **Purchase Order Creation in Zoho Books**  
+   Once the bill passes the required audit checks, the authorized user creates the purchase order in Zoho Books using a custom button.
+
+8. **Purchase Order Approval Tracking**  
+   After the purchase order is created and approved in Zoho Books, the corresponding approval date is updated in Zoho Creator.
+
+9. **Payment Tracking**  
+   Once payment is completed, the payment date is recorded against the bill in Zoho Creator.
+
+## Key Features
+- End-to-end freelancer payment workflow management
+- Vendor onboarding and KYC verification
+- Custom-button-driven actions
+- Zoho Creator and Zoho Books integration
+- Work order and receipt tracking
+- Bill quantity management and approval workflows
+- Audit queries and discrepancy handling
+- Purchase order approval date synchronization
+- Payment status and date tracking
+
+## Technologies Used
+- Zoho Creator
+- Deluge
+- Zoho Books API
+- REST API integration
+- JSON
+- Workflow automation
+- Custom buttons and approval processes
+
+## Business Impact
+- Centralized the freelancer billing lifecycle in one application.
+- Improved visibility across Accounts, operational teams, and Audit.
+- Reduced manual coordination between work orders, bills, purchase orders, and payment records.
+- Enabled structured tracking of approvals, audit queries, and payment milestones.
 
 ### 2. Bill Tracking System
 
@@ -34,13 +90,7 @@ Developed automation for multi-step processes, record tracking and unique number
 
 Zoho Creator | Deluge | Zoho Books | REST APIs | JSON | Postman | HTML | CSS | JavaScript
 
-## Career Goal
 
-I am continuously improving my development and integration skills and looking forward to building scalable business automation solutions using the Zoho ecosystem.
-
----
-
-*Note: This portfolio describes my experience. Company-specific code and confidential data are not included.*
 ## Project: Internal Ticketing System
 
 ### Overview
@@ -183,4 +233,12 @@ Different design work types have different submission deadlines. For example, A+
 **Technologies:** Zoho Creator, Deluge, Date-Time Handling, Conditional Validation
 
 **Key Learning:** Implementing configurable business rules and time-based form validation without hardcoding separate conditions for every work type.
+
+## Career Goal
+
+I am continuously improving my development and integration skills and looking forward to building scalable business automation solutions using the Zoho ecosystem.
+
+---
+
+*Note: This portfolio describes my experience. Company-specific code and confidential data are not included.*
 
