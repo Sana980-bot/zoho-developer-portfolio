@@ -166,3 +166,21 @@ To streamline procurement operations, reduce manual data entry, standardize appr
 
 *This portfolio description excludes company source code, credentials, and confidential business data.*
 
+### Zoho Creator – Dynamic Cutoff Time Validation
+
+**Objective:** Prevent users from submitting design-work requests after the configured daily cutoff time.
+
+**Business Scenario:**
+Different design work types have different submission deadlines. For example, A+ Creation has a daily cutoff time of 2:00 PM.
+
+**How it works:**
+- Each work type has its own configurable cutoff time.
+- When a user submits the form, Deluge retrieves the selected work type's cutoff time.
+- The script compares the current date and time with the configured cutoff.
+- If the deadline has passed, submission is cancelled and the user receives a clear alert.
+- Before the deadline, the form submission proceeds normally.
+
+**Technologies:** Zoho Creator, Deluge, Date-Time Handling, Conditional Validation
+
+**Key Learning:** Implementing configurable business rules and time-based form validation without hardcoding separate conditions for every work type.
+
